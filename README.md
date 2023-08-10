@@ -22,7 +22,7 @@
 
 <h3>Currently Pursuing</h3>
 
-- [WGU - Accelerated Bachelor's and Master's in IT]()
+- [WGU - Accelerated Bachelor's and Master's in IT](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program/program-guide.html)
 
 <h3>Certifications</h3>
 
