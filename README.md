@@ -6,23 +6,21 @@
 <h3>Projects</h3>
 
 - <b>Python</b>
-  - Oracle Cloud Archives
-    - [Verify All Files Uploaded]()
-    - [Verify File Hashes Match]()
+  - [Oracle Cloud: Verify All Files Uploaded]()
+  - [Oracle Cloud: Verify File Hashes Match]()
 - <b>PowerShell</b>
-  - IIS
-    - [Query Binding and Certificate Settings]()
-    - [Replace Wildcard Certificate for Multiple Sites]()
-  - [MFA Token Generator]()
+  - [IIS: Query Binding and Certificate Settings]()
+  - [IIS: Replace Wildcard Certificate for Multiple Sites]()
+  - [MFA: Token Generator]()
 - <b>Websites</b>
-  - [Nagios Service Builder]()
+  - [Nagios: Windows Server Service List Builder]()
 
 
 <h3>Blog</h3>
 
 - [Frayed Mind](http://www.frayedmind.com)
 
-<h3>Currently working on</h3>
+<h3>Currently Pursuing</h3>
 
 - [WGU - Accelerated Bachelor's and Master's in IT]()
 
