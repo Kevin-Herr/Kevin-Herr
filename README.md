@@ -26,6 +26,27 @@
 
 - [WGU - Accelerated Bachelor's and Master's in IT]()
 
+<h3>Certifications</h3>
+
+- <b>Cisco CCNA</b>
+  - Completed 10/2008
+  - Status: Expired
+- <b>Cisco CCDA</b>
+  - Completed 10/2008
+  - Status: Expired
+- <b>Cisco CCNA Security</b>
+  - Completed 10/2011
+  - Status: Expired
+- <b>CompTIA Network+</b>
+  - Completed 08/2007
+  - Status: Expired
+- <b>CompTIA Security+</b>
+  - Completed 06/2007
+  - Status: Expired
+- <b>Microsoft MCTS (70-640) Configuring Windows Server 2008 Active Directory</b>
+  - Completed 08/2007
+  - Status: Active
+
 
 <h3>Connect with me</h3>
 
