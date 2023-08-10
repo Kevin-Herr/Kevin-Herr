@@ -6,8 +6,8 @@
 <h3>Projects</h3>
 
 - <b>Python</b>
-  - [Oracle Cloud: Verify All Files Uploaded]()
-  - [Oracle Cloud: Verify File Hashes Match]()
+  - [Oracle Cloud: Verify All Files Uploaded](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
+  - [Oracle Cloud: Verify File Hashes Match](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
 - <b>PowerShell</b>
   - [IIS: Query Binding and Certificate Settings]()
   - [IIS: Replace Wildcard Certificate for Multiple Sites]()
