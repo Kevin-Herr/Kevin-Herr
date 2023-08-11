@@ -9,6 +9,7 @@
   - [Oracle Cloud: Verify All Files Uploaded](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
   - [Oracle Cloud: Verify File Hashes Match](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
 - <b>PowerShell</b>
+  - [AD: Change Passwords for Entire OU and Export to KeePass](https://github.com/Kevin-Herr/Active-Directory-Change-Password-of-Entire-OU-and-Export-to-KeePass)
   - [AD: Service Accounts Creation From List](https://github.com/Kevin-Herr/Active-Directory-Service-Account-Creation-From-List)
   - [IIS: Query Binding and Certificate Settings]()
   - [IIS: Replace Wildcard Certificate for Multiple Sites]()
