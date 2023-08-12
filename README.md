@@ -1,6 +1,6 @@
 <h1>Hello, I'm Kevin! <br/></h1>
 
-<h2>Systems Administrator, Network Administrator, Programmer</h2>
+<h2>Systems Administrator / Network Administrator</h2>
 
 
 <h3>Projects</h3>
