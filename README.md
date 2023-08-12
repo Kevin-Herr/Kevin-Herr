@@ -1,32 +1,36 @@
 <h1>Hello, I'm Kevin! <br/></h1>
-
-<h2>Systems Administrator / Network Administrator</h2>
-
-
-<h3>Projects</h3>
-
-- <b>Python</b>
-  - [Oracle Cloud: Verify All Files Uploaded](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
-  - [Oracle Cloud: Verify File Hashes Match](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
-- <b>PowerShell</b>
-  - [AD: Change Passwords for Entire OU and Export to KeePass](https://github.com/Kevin-Herr/Active-Directory-Change-Password-of-Entire-OU-and-Export-to-KeePass)
-  - [AD: Service Accounts Creation From List](https://github.com/Kevin-Herr/Active-Directory-Service-Account-Creation-From-List)
-  - [IIS: Query Binding and Certificate Settings From Server List](https://github.com/Kevin-Herr/PowerShell-IIS-Query-Binding-and-Certificate-Settings-From-Server-List)
-  - [IIS: Replace Wildcard Certificate for Multiple Sites](https://github.com/Kevin-Herr/PowerShell-IIS-Replace-Wildcard-Certificate-for-Multiple-Sites/)
-  - [MFA: Token Generator](https://github.com/Kevin-Herr/PowerShell-MFA-Token-Generator)
-- <b>Websites</b>
-  - [Nagios: Windows Server Service List Builder](https://github.com/Kevin-Herr/Nagios-Windows-Service-Reader)
+Systems Administrator / Network Administrator
 
 
-<h3>Blog</h3>
+<h2>Custom Tools</h2>
+
+<h3>Python</h3>
+
+- [Oracle Cloud: Verify All Files Uploaded](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
+- [Oracle Cloud: Verify File Hashes Match](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
+
+<h3>PowerShell</h3>
+
+- [AD: Change Passwords for Entire OU and Export to KeePass](https://github.com/Kevin-Herr/Active-Directory-Change-Password-of-Entire-OU-and-Export-to-KeePass)
+- [AD: Service Accounts Creation From List](https://github.com/Kevin-Herr/Active-Directory-Service-Account-Creation-From-List)
+- [IIS: Query Binding and Certificate Settings From Server List](https://github.com/Kevin-Herr/PowerShell-IIS-Query-Binding-and-Certificate-Settings-From-Server-List)
+- [IIS: Replace Wildcard Certificate for Multiple Sites](https://github.com/Kevin-Herr/PowerShell-IIS-Replace-Wildcard-Certificate-for-Multiple-Sites/)
+- [MFA: Token Generator](https://github.com/Kevin-Herr/PowerShell-MFA-Token-Generator)
+
+<h3>Web</h3>
+
+- [Nagios: Windows Server Service List Builder](https://github.com/Kevin-Herr/Nagios-Windows-Service-Reader)
+
+
+<h2>Blog</h2>
 
 - [Frayed Mind](http://www.frayedmind.com)
 
-<h3>Currently Pursuing</h3>
+<h2>Currently Pursuing</h2>
 
 - [WGU - Accelerated Bachelor's and Master's in IT](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program/program-guide.html)
 
-<h3>Certifications</h3>
+<h2>Certifications</h2>
 
 - <b>Cisco CCNA</b>
   - Completed 10/2008
@@ -48,7 +52,7 @@
   - Status: Active
 
 
-<h3>Connect with me</h3>
+<h2>Connect with me</h2>
 
 [<img align="left" alt="Kevin Herr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
