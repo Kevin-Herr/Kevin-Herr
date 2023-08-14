@@ -4,10 +4,6 @@ Systems Administrator / Network Administrator
 
 <h2>Custom Tools</h2>
 
-<h3>Python</h3>
-
-- [Oracle Cloud: Verify All Files Uploaded](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
-- [Oracle Cloud: Verify File Hashes Match](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
 
 <h3>PowerShell</h3>
 
@@ -16,6 +12,11 @@ Systems Administrator / Network Administrator
 - [IIS: Query Binding and Certificate Settings From Server List](https://github.com/Kevin-Herr/PowerShell-IIS-Query-Binding-and-Certificate-Settings-From-Server-List)
 - [IIS: Replace Wildcard Certificate for Multiple Sites](https://github.com/Kevin-Herr/PowerShell-IIS-Replace-Wildcard-Certificate-for-Multiple-Sites/)
 - [MFA: Token Generator](https://github.com/Kevin-Herr/PowerShell-MFA-Token-Generator)
+
+<h3>Python</h3>
+
+- [Oracle Cloud: Verify All Files Uploaded](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
+- [Oracle Cloud: Verify File Hashes Match](https://github.com/Kevin-Herr/oracle-cloud-storage-scripts)
 
 <h3>Web</h3>
 
