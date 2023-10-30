@@ -8,6 +8,7 @@ Systems Administrator / Network Administrator
 <h3>PowerShell</h3>
 
 - [AD: Change Passwords for Entire OU and Export to KeePass](https://github.com/Kevin-Herr/Active-Directory-Change-Password-of-Entire-OU-and-Export-to-KeePass)
+- [AD: Creating Distribution and Security Groups for Employees based on Titles](https://github.com/Kevin-Herr/PS-AD-Title-Based-Security-Distro-Group-Creation)
 - [AD: Service Accounts Creation From List](https://github.com/Kevin-Herr/Active-Directory-Service-Account-Creation-From-List)
 - [IIS: Query Binding and Certificate Settings From Server List](https://github.com/Kevin-Herr/PowerShell-IIS-Query-Binding-and-Certificate-Settings-From-Server-List)
 - [IIS: Replace Wildcard Certificate for Multiple Sites](https://github.com/Kevin-Herr/PowerShell-IIS-Replace-Wildcard-Certificate-for-Multiple-Sites/)
