@@ -27,9 +27,6 @@ Systems Administrator / Network Administrator
 
 - [Frayed Mind](http://www.frayedmind.com)
 
-<h2>Currently Pursuing</h2>
-
-- [WGU - Accelerated Bachelor's and Master's in IT](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program/program-guide.html)
 
 <h2>Certifications</h2>
 
